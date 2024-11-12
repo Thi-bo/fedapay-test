@@ -63,19 +63,7 @@ projet-transactions-fedapay/
 - `.env` : fichier de configuration de l'environnement, où vous devez définir vos clés API FedaPay.
 - `web.php` : fichier de routes reliant les URLs aux méthodes du contrôleur.
 
-## Améliorations Futures
 
-Voici quelques suggestions d'améliorations futures pour ce projet :
-
-- Ajout d'un système de stockage des transactions dans une base de données
-- Implémentation d'un système de gestion des erreurs plus robuste
-- Ajout d'options de paiement en ligne sécurisées supplémentaires via FedaPay
-- Ajout d'un tableau de bord administrateur pour consulter et gérer les transactions
-- Implémentation d'une logique pour gérer les remboursements ou annulations de transactions
-
-## Contributeurs
-
-- [Thibaut Houndjo]
 
 ## Licence
 
